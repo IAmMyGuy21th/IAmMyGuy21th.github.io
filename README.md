@@ -1,9 +1,8 @@
-# IAmMyGuy21st
-## Hello?
+# Spike172
+## Hi!
 ### Info:
-This is basically my entire Github Pages website. I mostly add some code tests, but sometimes I add things for my own personal use. Things like:
+This is the directory of my Github Pages website. I mostly add some code tests, but sometimes I add things for my own personal use. Things like:
 - Tests
 - Other websites
-- Things I just type out for fun
+- Loopholes that I found in my district's security
 - etc.
-I know the name of this repository and the name of my account are spelled wrong, but I'm too lazy to change that.
