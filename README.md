@@ -6,5 +6,4 @@ This is basically my entire Github Pages website. I mostly add some code tests, 
 - Other websites
 - Things I just type out for fun
 - etc.
-I know the name of this repository and the name of my account are spelled wrong, but I'm too lazy to change that.
-Also the favicon is from fluent emoji.
+I know the name of this repository and the name of my account are spelled wrong, but I'm too lazy to change that. Also the favicon is from fluent emoji.
