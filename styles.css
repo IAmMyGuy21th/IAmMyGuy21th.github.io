@@ -6,6 +6,7 @@
 	background-color: #eee;
 	font-family: 'Roboto';
 	padding: 5px;
+	display: flex;
 }
 
 .buttonStyle1:hover {
